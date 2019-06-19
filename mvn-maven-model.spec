@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-model
 Version  : 2.0.5
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.pom
