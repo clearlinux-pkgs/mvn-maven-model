@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-model
 Version  : 2.0.5
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.pom
@@ -25,6 +25,8 @@ Source15  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0/mave
 Source16  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
 Source17  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.jar
 Source18  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.pom
+Source19  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.jar
+Source20  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
@@ -103,6 +105,12 @@ cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0
 cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0
 
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1
+cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1
+cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1
+
 
 %files
 %defattr(-,root,root,-)
@@ -128,3 +136,5 @@ cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.jar
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.pom
+/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.jar
+/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.pom
