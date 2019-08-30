@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-model
 Version  : 2.0.5
-Release  : 7
+Release  : 8
 URL      : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.5/maven-model-2.0.5.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.1/maven-model-2.0.1.jar
@@ -20,33 +20,34 @@ Source10  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.6/ma
 Source11  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
 Source12  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.jar
 Source13  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.pom
-Source14  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.pom
-Source15  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.jar
-Source16  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
-Source17  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0/maven-model-2.0.pom
-Source18  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.jar
-Source19  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
-Source20  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
-Source21  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
-Source22  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
-Source23  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
-Source24  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.jar
-Source25  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.pom
-Source26  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
-Source27  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
-Source28  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.jar
-Source29  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.pom
-Source30  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.jar
-Source31  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.pom
-Source32  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.jar
-Source33  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.pom
+Source14  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.jar
+Source15  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.pom
+Source16  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.jar
+Source17  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+Source18  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.0/maven-model-2.0.pom
+Source19  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.jar
+Source20  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
+Source21  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
+Source22  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+Source23  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.jar
+Source24  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.pom
+Source25  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
+Source26  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
+Source27  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.jar
+Source28  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.pom
+Source29  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+Source30  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+Source31  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.jar
+Source32  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.pom
+Source33  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.jar
+Source34  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.pom
+Source35  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.jar
+Source36  : https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
 Requires: mvn-maven-model-data = %{version}-%{release}
 Requires: mvn-maven-model-license = %{version}-%{release}
-BuildRequires : apache-maven
-BuildRequires : buildreq-mvn
 
 %description
 No detailed description available
@@ -118,64 +119,73 @@ mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model
 cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.8
-cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.pom
+cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.8
+cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.9
-cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.jar
+cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.9
-cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
+cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0
-cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0/maven-model-2.0.pom
+cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0/maven-model-2.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.0
-cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.jar
+cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.0
-cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
+cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.1
-cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
+cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.1
-cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.3
+cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.3
+cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.4
-cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
+cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.4
-cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
+cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.5
-cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.jar
+cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.5
-cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.pom
+cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0
-cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0
-cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.3.9
-cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.jar
+cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.3.9
-cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.pom
+cp %{SOURCE32} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0
-cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.jar
+cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0
-cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.pom
+cp %{SOURCE34} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.0/maven-model-3.6.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1
-cp %{SOURCE32} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.jar
+cp %{SOURCE35} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1
-cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.pom
+cp %{SOURCE36} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.6.1/maven-model-3.6.1.pom
 
 
 %files
@@ -197,6 +207,7 @@ cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.jar
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.7/maven-model-2.0.7.pom
+/usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.jar
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.pom
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.jar
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.pom
@@ -205,6 +216,8 @@ cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/maven
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.0/maven-model-2.2.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.jar
+/usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.pom
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.jar
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.4/maven-model-3.0.4.pom
 /usr/share/java/.m2/repository/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.jar
